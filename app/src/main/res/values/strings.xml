@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search Address</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permission_location_rationale">We need your permission to access your location to use the app.</string>
+</resources>
